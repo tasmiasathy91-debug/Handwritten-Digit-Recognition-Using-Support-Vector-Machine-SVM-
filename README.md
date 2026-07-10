@@ -8,6 +8,8 @@ This report presents a machine learning analysis of the MNIST Train Small datase
 
 The project follows a complete data science workflow, including data exploration, preprocessing, feature scaling, model training, prediction, and evaluation. The SVM model, particularly with the Radial Basis Function (RBF) kernel, demonstrates excellent performance, achieving an accuracy of approximately 98%, making it a strong baseline model for image classification tasks.
 
+# MNIST Train Small Dataset: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+
 # Introduction
 
 Handwritten digit recognition is a classic supervised machine learning problem in computer vision. It has applications in banking, postal services, education, document digitization, and optical character recognition (OCR).
