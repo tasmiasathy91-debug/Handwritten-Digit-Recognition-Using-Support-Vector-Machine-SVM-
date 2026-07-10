@@ -1,8 +1,8 @@
 Handwritten-Digit-Recognition-Using-Support-Vector-Machine-SVM-
 
-#MNIST Train Small Dataset Analysis Using Support Vector Machine
+# MNIST Train Small Dataset Analysis Using Support Vector Machine
 
-#Executive Summary
+# Executive Summary
 
 This report presents a machine learning analysis of the MNIST Train Small dataset using the Support Vector Machine (SVM) algorithm. The objective is to classify handwritten digits (0–9) based on grayscale pixel intensities. The dataset contains 20,000 labeled images, each represented by 784 pixel features corresponding to a 28 × 28 image.
 
