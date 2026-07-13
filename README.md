@@ -8,6 +8,14 @@ This report presents a machine learning analysis of the MNIST Train Small datase
 
 The project follows a complete data science workflow, including data exploration, preprocessing, feature scaling, model training, prediction, and evaluation. The SVM model, particularly with the Radial Basis Function (RBF) kernel, demonstrates excellent performance, achieving an accuracy of approximately 98%, making it a strong baseline model for image classification tasks.
 
+# Machine Learning tools
+
+* Supervised Machine Learning
+* Classification Algorithms
+* Kernel Methods (Linear, RBF, Polynomial)
+* Hyperparameter Tuning
+* Feature Standardization
+
 # Machine Learning Skills
 
 <img width="624" height="1040" alt="image" src="https://github.com/user-attachments/assets/7750d1b9-4e53-4f62-9c2f-b515fdb5cd2a" />
