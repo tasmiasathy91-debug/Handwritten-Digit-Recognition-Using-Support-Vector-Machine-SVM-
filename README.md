@@ -1,6 +1,6 @@
-Handwritten-Digit-Recognition-Using-Support-Vector-Machine-SVM-
+Handwritten-Digit-Recognition-Using-Support-Vector-Machine-SVM-(Deep Learning)
 
-# MNIST Train Small Dataset Analysis Using Support Vector Machine
+# MNIST Train Small Dataset Analysis Using Support Vector Machine(Deep Learning)
 
 # Executive Summary
 
