@@ -1,6 +1,5 @@
-Handwritten-Digit-Recognition-Using-Deep-Learning(SVM)
-
-# MNIST Train Small Dataset Analysis Using Deep Learning(Support Vector Machine)
+# Project Title:
+MNIST Train Small Dataset Analysis Using Deep Learning(Support Vector Machine)
 
 # Executive Summary
 
